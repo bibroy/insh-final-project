@@ -15,3 +15,4 @@
     jQuery, Modernizr
 
 # SSH push test
+# building commit history with humans.txt - edit 1
