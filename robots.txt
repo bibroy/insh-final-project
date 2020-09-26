@@ -7,3 +7,4 @@ Disallow:
 # building commit history with robots.txt - edit 2
 
 # pull with rebase demo - line 1
+# pull with rebase demo - line 2
