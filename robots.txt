@@ -8,3 +8,4 @@ Disallow:
 
 # pull with rebase demo - line 1
 # pull with rebase demo - line 2
+# tag delete
